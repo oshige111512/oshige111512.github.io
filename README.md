@@ -1,0 +1,1 @@
+# oshige111512.github.io
