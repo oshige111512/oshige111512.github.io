@@ -1,4 +1,20 @@
 body{
-		width:100%;
+		width:320px;
 		/* background-color:green; */
+}
+
+header{
+	text-align:center;
+}
+
+.face{
+	text-align:center;
+	font-weight:bold;
+}
+
+.image{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:5%;
 }
